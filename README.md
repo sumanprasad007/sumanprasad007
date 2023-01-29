@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning Latest Technologies like AWS Cloud, Django, Networking concepts, Coding, Web Dev (Backened)...
 - 📫 How to reach me sumanprasad9766@gmail.com ...
 SKILLS: 
-- Languages & Runtimes: Python, Shell Scripting, HCL, YAML 
-- Cloud Technologies: AWS, Microsoft Azure, GCP
-- Infrastructure Tools: Docker, Terraform, AWS CloudFormation 
-- Other Tools: Linux, Git and Git Hub, Jira, Gitlab(beginner), Docker
+- 👩‍💻Languages & Runtimes: Python, Shell Scripting, HCL, YAML 
+- ☁ Cloud Technologies: AWS, Microsoft Azure, GCP
+- 🏚 Infrastructure Tools: Docker, Terraform, AWS CloudFormation 
+- 🕵️‍♀️ Other Tools: Linux, Git and Git Hub, Jira, Gitlab(beginner), Docker
 
 
 <!---
