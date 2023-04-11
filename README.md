@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumanprasad007" alt="sumanprasad007" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/sumanprasad007" target="blank"><img src="https://img.shields.io/twitter/follow/sumanprasad007?logo=twitter&style=for-the-badge" alt="sumanprasad007" /></a> </p>
+
 - 🔭 I’m currently working as [Cloud DevOps Engineer & building CI/CD Pipelines](https://github.com/sumanprasad007/Streamlining-Website-Deployment-through-AWS-CI-CD-Pipeline.git)
 
 - 🌱 I’m currently learning **AWS CI/CD Pipeline which comprise of CodeCommit, CodeBuild, CodeDeploy, CodePipeline, S3, EC2, Cloudwatch, IAM**
@@ -31,7 +33,7 @@
 <a href="https://hashnode.com/sumanprasad.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="sumanprasad.hashnode.dev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@sumanprasad007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sumanprasad007/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sumanprasad9766" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sumanprasad9766" height="30" width="40" /></a>
-<a href="/https://sumanprasad.hashnode.dev" target="blank"><img align="center" src="https://sumanprasad.hashnode.dev" alt="https://sumanprasad.hashnode.dev" height="30" width="40" /></a>
+<a href="/https://sumanprasad.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://sumanprasad.hashnode.dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
