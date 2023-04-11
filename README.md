@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://resume.creddle.io/resume/d4w83xdmskj](https://resume.creddle.io/resume/d4w83xdmskj)
 
-<p align="left"> <img align="right" alt="Cloud DevOps" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjU1NGY3NWEyNWRkY2M3Njc0YjEzMzNjZmYwYmZhMzRlYjMzZDM5MCZjdD1z/lP8xu5t2DLGG045H8F/giphy.gif" /> </p>
+<!-- <p align="left"> <img align="right" alt="Cloud DevOps" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjU1NGY3NWEyNWRkY2M3Njc0YjEzMzNjZmYwYmZhMzRlYjMzZDM5MCZjdD1z/lP8xu5t2DLGG045H8F/giphy.gif" /> </p> -->
 
 - ⚡ Fun fact **I'm a Cloud DevOps Engineer, Tech Blogger, Cricketer, Trekker, 10 Fingers-Fast Typist: 60 + WPM, Communicator and Community contributor**
 
