@@ -1,4 +1,4 @@
-![logo](https://github.com/sumanprasad007/sumanprasad007/blob/main/GitHub%20Banner.png)
+![logo](https://github.com/sumanprasad007/sumanprasad007/blob/main/GitHub%20Banner%2011th%20April.png)
 
 <h1 align="center">Hi 👋, I'm Prasad Suman Mohan</h1>
 <h3 align="center">An Enthusiast Cloud DevOps Engineer from India</h3>
