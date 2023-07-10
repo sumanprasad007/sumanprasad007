@@ -12,6 +12,8 @@
   
 - **TWS Community Builder 🔄** [Checkout the Page on LinkedIn](https://www.linkedin.com/company/trainwithshubham/)
 
+- **Completed 90DaysOfDevops Challenge 🚀** [Checkout my #90days Journey😊](https://www.linkedin.com/posts/prasad-suman-mohan_90days-challenge-my-journey-of-growth-activity-7052857767644004353-9n5z?utm_source=share&utm_medium=member_desktop)
+
 - 🌱 I’m currently learning **AWS CI/CD Pipeline which comprise of CodeCommit, CodeBuild, CodeDeploy, CodePipeline, S3, EC2, Cloudwatch, IAM**
 
 - 👯 I’m looking to collaborate on **DevOps Project**
