@@ -58,9 +58,9 @@
 <h1></h1>
 
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanprasad007&theme=merko" alt="sumanprasad007" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanprasad007&theme=radical" alt="sumanprasad007" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sumanprasad007&show_icons=true&locale=en&theme=merko" alt="sumanprasad007" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanprasad007&show_icons=true&locale=en&theme=radical" alt="sumanprasad007" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanprasad007&show_icons=true&locale=en&theme=merko" alt="themr255" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanprasad007&show_icons=true&locale=en&theme=radical" alt="themr255" />
 
