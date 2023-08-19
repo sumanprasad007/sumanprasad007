@@ -1,9 +1,6 @@
 <!--  ![logo](https://github.com/sumanprasad007/sumanprasad007/blob/main/GitHub%20Banner%2011th%20April.png)
 -->
-
 ![image](https://github.com/sumanprasad007/sumanprasad007/assets/55047333/945dc45a-273a-42ad-8364-2393bdb0b6f1)
-
-
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0FF700&center=true&vCenter=true&width=1200&height=60&lines=Hi+%F0%9F%91%8B%2C+Explore+world+of+Cloud+%26+DevOps+;With+Prasad+Suman+Mohan%2C+Let's+connect!+" alt="Typing SVG" /></a></h1>
 
 <h3 align="center">An Enthusiast Cloud DevOps Engineer from India</h3>
