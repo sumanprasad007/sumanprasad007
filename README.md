@@ -19,7 +19,7 @@
 <a href="https://github.com/sumanprasad007"><img src="https://img.shields.io/github/followers/sumanprasad007?style=for-the-badge&logo=github"/></a>
 <a href="https://twitter.com/sumanprasad007"><img src="https://img.shields.io/twitter/follow/sumanprasad007?style=for-the-badge&logo=twitter"/></a>
 <br/>
-<a href="https://sumanprasad.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-Blogs-2962FF?style=for-the-badge&logo=hashnode"/></a>
+<a href="https://prasadsuman.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-Blogs-2962FF?style=for-the-badge&logo=hashnode"/></a>
 <a href="https://www.youtube.com/@sumanprasad007"><img src="https://img.shields.io/badge/YouTube-DevOps-red?style=for-the-badge&logo=youtube"/></a>
 </p>
 
