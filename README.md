@@ -12,7 +12,16 @@
 
 <p align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&row=1"/></p>
 
-<p align="center"> <a href="https://twitter.com/sumanprasad007" target="blank"><img src="https://img.shields.io/twitter/follow/sumanprasad007?logo=twitter&style=for-the-badge" alt="sumanprasad007" /></a> </p>
+
+<p align="center">
+<b>@sumanprasad007</b><br/><br/>
+<a href="https://linkedin.com/in/prasad-suman-mohan"><img src="https://img.shields.io/badge/LinkedIn-32K%2B-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://github.com/sumanprasad007"><img src="https://img.shields.io/github/followers/sumanprasad007?style=for-the-badge&logo=github"/></a>
+<a href="https://twitter.com/sumanprasad007"><img src="https://img.shields.io/twitter/follow/sumanprasad007?style=for-the-badge&logo=twitter"/></a>
+<br/>
+<a href="https://sumanprasad.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-Blogs-2962FF?style=for-the-badge&logo=hashnode"/></a>
+<a href="https://www.youtube.com/@sumanprasad007"><img src="https://img.shields.io/badge/YouTube-DevOps-red?style=for-the-badge&logo=youtube"/></a>
+</p>
 
 <h1></h1>
 
